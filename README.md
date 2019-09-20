@@ -5,4 +5,4 @@ This MATLAB package is a collection of scripts allowing to generate figures in t
 
 [1] D. H. Pham and S. Meignen, “An adaptive computation of contour representations for mode decomposition,” IEEE Signal Processing Letters, vol. 24, no. 11, pp. 1596–1600, Nov 2017.
 
-COPY RIGHT WSST2 is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@univ-grenoble-alpes.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr.
+COPY RIGHT WSST2 is copyright reserved. For further information, please contact Duong Hung PHAM at duong-hung.pham@irit.fr and Sylvain Meignen at Sylvain.Meignen@univ-grenoble-alpes.fr.
